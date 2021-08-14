@@ -34,3 +34,35 @@
 
 🔹[How to Use LinkedIn to Get Your First Developer Job](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
 
+🔹[VS Code Extensions - Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+🔹[10 Modern Layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU)
+
+🔹[Rubber Duck Debugging](https://www.wikiwand.com/en/Rubber_duck_debugging)
+
+🔹[Don’t ask to ask , just ask!](https://dontasktoask.com/)
+
+🔹[How to be great at asking questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
+
+🔹[How to Use Google to Solve Your Programming Questions](https://codinginflow.com/google-programming-questions)
+
+🔹[Motivation and Mindset](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/gearing-up)
+
+🔹[Learn Code Faster with the Feynman Technique](https://www.youtube.com/watch?v=vWNa15pjzi4&list=PLiE8QvYcXwiVLu7hy0SMaztQ5TywMgb6C&index=6&t=269s)
+
+🔹[Feynman Technique](https://www.teachthought.com/learning/how-to-use-the-feynman-technique-learning-by-simplifying/)
+
+🔹[VS Code Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+🔹[Code faster with AI completions](https://www.tabnine.com/)
+
+🔹[How to split Screen for Multi-Tasking using Windows 10 Snapping](https://www.youtube.com/watch?v=b3l5MJEuIpA)
+
+🔹[A neat trick to check color-contrast in your site and save valuable time](https://www.loom.com/share/74d549d8d8d049419698fb261e82af19)
+
+🔹[Git Cheat Sheet - 50 Commands you should know](https://www.freecodecamp.org/news/git-cheat-sheet/)
+
+🔹[Web Development Free Resources](https://twitter.com/Prathkum/status/1364870595687706631)
+
+🔹[How CSS Positioning and FlexBox Work](https://www.freecodecamp.org/news/css-positioning-and-flexbox-explained/)
+

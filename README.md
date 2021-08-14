@@ -61,6 +61,24 @@
 <br>
 <br>
 
+
+## UX Design
+
+🔹[A Beginner’s Guide to Using Google Web Fonts](https://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/)
+
+🔹[What Is User Experience Design? Overview, Tools And Resources](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
+
+🔹[Key Principles of Visual Hierarchy in UX Design](https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-principles-examples/)
+
+🔹[The ultimate guide to visual hierarchy](https://www.canva.com/learn/visual-hierarchy/)
+
+🔹[Sans Serif Vs Serif Font — Which Should You Use & When](https://inkbotdesign.medium.com/sans-serif-vs-serif-font-which-should-you-use-when-76b89a986032)
+
+🔹[5 Things Developers Need to Know About Design](https://www.youtube.com/watch?v=1hYaatyUwOc)
+
+<br>
+<br>
+
 ## Git
 
 🔹[Git Cheat Sheet - 50 Commands you should know](https://www.freecodecamp.org/news/git-cheat-sheet/)
@@ -83,6 +101,10 @@
 🔹[CSS Generator](https://css-generator.netlify.app/)
 
 🔹[Code Playground](https://jsfiddle.net/)
+
+🔹[A Basic Responsive Grid (Plus Handy CSS3 Media Query Reporter)](https://webdesign.tutsplus.com/articles/a-basic-responsive-grid-plus-handy-css3-media-query-reporter--webdesign-5121)
+
+🔹[Learn to Code HTML & CSS -Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
 
 <br>
 <br>

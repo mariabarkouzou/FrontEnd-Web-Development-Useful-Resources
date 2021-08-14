@@ -56,6 +56,8 @@
 
 🔹[Web Development Free Resources](https://twitter.com/Prathkum/status/1364870595687706631)
 
+🔹[The Importance of Test Driven Development](https://medium.com/@gondy/the-importance-of-test-driven-development-f80b0d02edd8)
+
 <br>
 <br>
 
@@ -79,6 +81,8 @@
 🔹[ CSS selectors cheatsheet & details ](https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f)
 
 🔹[CSS Generator](https://css-generator.netlify.app/)
+
+🔹[Code Playground](https://jsfiddle.net/)
 
 <br>
 <br>
@@ -104,3 +108,18 @@
 🔹[40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 
 🔹[JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
+
+🔹[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+
+🔹[JavaScript Playground](https://playcode.io/new/)
+
+🔹[A JavaScript Tip per day!](https://www.jstips.co/)
+
+🔹[JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+
+🔹[How let and const are scoped in JavaScript](https://wesbos.com/javascript-scoping)
+
+🔹[Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
+
+🔹[3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
+

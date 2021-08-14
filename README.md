@@ -64,6 +64,7 @@
 
 ## UX Design
 
+
 🔹[A Beginner’s Guide to Using Google Web Fonts](https://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/)
 
 🔹[What Is User Experience Design? Overview, Tools And Resources](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
@@ -81,12 +82,14 @@
 
 ## Git
 
+
 🔹[Git Cheat Sheet - 50 Commands you should know](https://www.freecodecamp.org/news/git-cheat-sheet/)
 
 <br>
 <br>
 
 ## CSS
+
 
 🔹[10 Modern Layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU)
 
@@ -110,6 +113,7 @@
 <br>
 
 ## JavaScript
+
 
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 

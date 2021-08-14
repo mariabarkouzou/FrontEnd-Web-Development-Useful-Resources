@@ -78,6 +78,14 @@
 
 🔹[VS Code Extensions - Polacode](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 
+🔹[VS Code Extensions - Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+🔹[VS Code Extensions - Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+🔹[VS Code Extensions -ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+🔹[VS Code Extensions -JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
 🔹[VS Code Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 🔹[Problems with auto reload page and live server?](https://github.com/ritwickdey/vscode-live-server/issues/452)

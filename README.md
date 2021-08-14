@@ -20,15 +20,11 @@
 
 🔹[Your daily does of Code Snippets](https://www.samanthaming.com/tidbits/)
 
-🔹[Problems with auto reload page and live server?](https://github.com/ritwickdey/vscode-live-server/issues/452)
-
 🔹[Dark Reader](https://darkreader.org/)
 
 🔹[10 Must have Extensions for Web Developers!](https://www.youtube.com/watch?v=QnwMhUlyhkA)
 
 🔹[How to Use LinkedIn to Get Your First Developer Job](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
-
-🔹[VS Code Extensions - Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 🔹[Rubber Duck Debugging](https://www.wikiwand.com/en/Rubber_duck_debugging)
 
@@ -44,8 +40,6 @@
 
 🔹[Feynman Technique](https://www.teachthought.com/learning/how-to-use-the-feynman-technique-learning-by-simplifying/)
 
-🔹[VS Code Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
 🔹[Code faster with AI completions](https://www.tabnine.com/)
 
 🔹[How to split Screen for Multi-Tasking using Windows 10 Snapping](https://www.youtube.com/watch?v=b3l5MJEuIpA)
@@ -57,6 +51,37 @@
 🔹[Web Development Free Resources](https://twitter.com/Prathkum/status/1364870595687706631)
 
 🔹[The Importance of Test Driven Development](https://medium.com/@gondy/the-importance-of-test-driven-development-f80b0d02edd8)
+
+<br>
+<br>
+
+
+## VS Code 
+
+🔹[VS Code Extensions - Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+🔹[VS Code Extensions - Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+🔹[VS Code Extensions - Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+🔹[VS Code Extensions - Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+🔹[VS Code Extensions - ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+🔹[VS Code Extensions - Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+
+🔹[VS Code Extensions - HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+
+🔹[VS Code Extensions - W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)
+
+🔹[VS Code Extensions - Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+
+🔹[VS Code Extensions - Polacode](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
+
+🔹[VS Code Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+🔹[Problems with auto reload page and live server?](https://github.com/ritwickdey/vscode-live-server/issues/452)
+
 
 <br>
 <br>

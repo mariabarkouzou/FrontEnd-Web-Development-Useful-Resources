@@ -66,3 +66,24 @@
 
 🔹[How CSS Positioning and FlexBox Work](https://www.freecodecamp.org/news/css-positioning-and-flexbox-explained/)
 
+🔹[Learn CSS Grid by Building 5 Layouts](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
+
+🔹[10 CSS Hacks Every Web Developer Should Know](https://www.freecodecamp.org/news/10-css-hacks-every-web-developer-should-know/)
+
+🔹[ CSS selectors cheatsheet & details ](https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f)
+
+🔹[CSS Generator](https://css-generator.netlify.app/)
+
+🔹[10 Rules of Code 2021](https://need2nerd.com/guides/10-Rules-of-Code-2021.pdf)
+
+🔹[S.O.L.I.D. Principles around you in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
+
+🔹[JavaScript Array Methods Tutorial](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
+
+🔹[JavaScript Number to String](https://www.freecodecamp.org/news/javascript-number-to-string-how-to-use-tostring-to-convert-an-int-into-a-string/)
+
+🔹[Learn JavaScript through visualization](https://www.jsv9000.app/)
+
+🔹[40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+
+🔹[JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)

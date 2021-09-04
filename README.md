@@ -54,6 +54,8 @@
 
 🔹[760+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
+🔹[Learn how to type and code faster - Typing Trainer Online](https://www.typingtest.com/trainer/)
+
 <br>
 <br>
 

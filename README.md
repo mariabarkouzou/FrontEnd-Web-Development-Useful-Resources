@@ -2,6 +2,12 @@
 
 ## General
 
+🔹[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+🔹[Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
+
+🔹[Watch YouTube videos faster than 2x with one line of code](https://medium.com/@rbhatia46/watch-youtube-videos-faster-than-2x-with-one-line-of-code-dd29f9524945)
+
 🔹[Protecting your email address](https://www.ionos.com/digitalguide/e-mail/e-mail-security/protecting-your-email-address-how-to-do-it/)
 
 🔹[Web Development in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
@@ -203,3 +209,5 @@
 🔹[3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
 
 🔹[RunJS - A playground for JavaScript](https://runjs.app/)
+
+🔹[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)

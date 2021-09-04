@@ -173,6 +173,7 @@
 
 ## JavaScript
 
+🔹[JavaScript Fundamentals in 13 Slides](https://drive.google.com/file/d/11nsUxF60vmPiVnHmWAkf8Bolq7nPnLiM/view?usp=sharing)
 
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 

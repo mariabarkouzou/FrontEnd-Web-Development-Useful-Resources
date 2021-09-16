@@ -136,6 +136,8 @@
 
 🔹[5 Things Developers Need to Know About Design](https://www.youtube.com/watch?v=1hYaatyUwOc)
 
+🔹[Photopea - Online Photo Editor](https://www.photopea.com/)
+
 <br>
 <br>
 

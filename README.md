@@ -121,7 +121,7 @@
 <br>
 
 
-## UX Design
+## UX | UI Design
 
 
 🔹[A Beginner’s Guide to Using Google Web Fonts](https://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/)

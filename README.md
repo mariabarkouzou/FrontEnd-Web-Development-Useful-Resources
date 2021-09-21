@@ -77,6 +77,8 @@
 
 🔹[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
+🔹[Pesticide (without hover bar)](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
+
 <br>
 <br>
 
@@ -310,6 +312,18 @@
 🔹[CSS Grid Property](https://www.w3schools.com/cssref/pr_grid.asp)
 
 🔹[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+🔹[CSS Style Guide](https://codeguide.co/#css)
+
+🔹[CSS Reference](https://cssreference.io/)
+
+🔹[CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
+
+🔹[Do you really know CSS linear-gradients?](https://patrickbrosset.medium.com/do-you-really-understand-css-linear-gradients-631d9a895caf#.tjka033kc)
+
+🔹[Tool for Generating Gradient Background](https://cssgradient.io/)
+
+
 
 
 <br>

@@ -374,3 +374,5 @@
 🔹[Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 🔹[ESLint - The "use strict" Rules](https://eslint.org/docs/rules/strict)
+
+🔹[Raise a number to a power in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)

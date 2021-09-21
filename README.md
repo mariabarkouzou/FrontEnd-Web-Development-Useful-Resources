@@ -224,3 +224,5 @@
 🔹[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)
 
 🔹[Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+🔹[ESLint - The "use strict" Rules](https://eslint.org/docs/rules/strict)

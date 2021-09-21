@@ -297,6 +297,19 @@
 
 🔹[CSS Layout - The position Property](https://www.w3schools.com/css/css_positioning.asp)
 
+🔹[What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+
+🔹[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+🔹[Flexbox Froggy | A game for learning CSS Flexbox](http://flexboxfroggy.com/)
+
+🔹[Dive into Flexbox](https://bocoup.com/blog/dive-into-flexbox)
+
+🔹[Grid By Example](https://gridbyexample.com/video/)
+
+🔹[CSS Grid Property](https://www.w3schools.com/cssref/pr_grid.asp)
+
+🔹[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 
 <br>

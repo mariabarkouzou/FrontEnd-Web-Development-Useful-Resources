@@ -192,6 +192,8 @@
 
 🔹[A Basic Responsive Grid](https://webdesign.tutsplus.com/articles/a-basic-responsive-grid-plus-handy-css3-media-query-reporter--webdesign-5121)
 
+🔹[CSS Selectors Made Easy](https://www.youtube.com/watch?v=dcCCOiQ1ZuM)
+
 <br>
 <br>
 

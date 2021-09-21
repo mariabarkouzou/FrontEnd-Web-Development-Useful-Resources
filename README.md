@@ -170,6 +170,8 @@
 
 🔹[Learn to Code HTML & CSS -Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
 
+🔹[Grid - Garden | A game for learning CSS grid](https://cssgridgarden.com/)
+
 <br>
 <br>
 

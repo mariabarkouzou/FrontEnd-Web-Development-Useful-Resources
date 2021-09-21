@@ -154,6 +154,14 @@
 
 🔹[Git from the inside out - Mary Rose Cook](https://www.youtube.com/watch?v=N9fnp_NSCv4)
 
+🔹[Git Cheat Sheet Education](https://education.github.com/git-cheat-sheet-education.pdf)
+
+🔹[Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+🔹[Git Book](https://git-scm.com/book/en/v2)
+
+🔹[What The Git? | Enter a git command and have it explained to you](https://wtg.nezia.xyz/)
+
 <br>
 <br>
 

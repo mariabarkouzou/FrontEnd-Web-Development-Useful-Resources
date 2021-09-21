@@ -194,6 +194,8 @@
 
 🔹[CSS Selectors Made Easy](https://www.youtube.com/watch?v=dcCCOiQ1ZuM)
 
+🔹[Smart WebP, PNG and JPEG compression](https://tinypng.com/)
+
 <br>
 <br>
 

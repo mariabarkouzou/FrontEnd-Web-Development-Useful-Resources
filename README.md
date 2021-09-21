@@ -142,6 +142,8 @@
 
 🔹[How to use Photoshop to design interfaces](https://nathanbarry.com/how-to-use-photoshop-to-design-interfaces/)
 
+🔹[Building a design system – Line Length](https://uxdesign.cc/building-a-design-system-where-to-start-part-4-typography-5065b8d360c#a43e)
+
 <br>
 <br>
 
@@ -163,6 +165,55 @@
 🔹[What The Git? | Enter a git command and have it explained to you](https://wtg.nezia.xyz/)
 
 🔹[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+<br>
+<br>
+
+## HTML5
+
+🔹[Dive Into HTML5](http://diveintohtml5.it/)
+
+🔹[HTML Tutorial](https://www.w3schools.com/html/default.asp)
+
+🔹[28 HTML5 Features, Tips, and Techniques you Must Know](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)
+
+🔹[Testing compliance of various tags in HTML5 with CanIUse?](https://caniuse.com/)
+
+🔹[Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+
+🔹[Meta Description](https://web.dev/meta-description/)
+
+🔹[The Paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+
+🔹[HTML Phrasing Content](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories#phrasing_content)
+
+🔹[Creating Lists](https://learn.shayhowe.com/html-css/creating-lists/)
+
+🔹[How To Create Intents And Bullet Lists](https://www.htmlgoodies.com/getting-started/so-you-want-indents-and-lists-huh/)
+
+🔹[HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+
+🔹[HTML Lists TutorialRepublic](https://www.tutorialrepublic.com/html-tutorial/html-lists.php)
+
+🔹[The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+
+🔹[HTML table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+
+🔹[So , you want a table inside a table?](https://www.htmlgoodies.com/guides/so-you-want-a-table-inside-a-table-huh/)
+
+🔹[HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+
+🔹[Building Forms](https://learn.shayhowe.com/html-css/building-forms/)
+
+🔹[Your first form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+
+🔹[Forms Accessibility Checklist](https://www.a11yproject.com/checklist/#forms)
+
+🔹[HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+
+🔹[Embedding a YouTube video in a webpage](https://www.youtube.com/watch?v=lJIrF4YjHfQ)
+
+
 
 <br>
 <br>

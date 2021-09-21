@@ -196,6 +196,8 @@
 
 🔹[Smart WebP, PNG and JPEG compression](https://tinypng.com/)
 
+🔹[Styling HTML Tables with CSS](https://flaviocopes.com/css-tables/)
+
 <br>
 <br>
 

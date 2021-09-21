@@ -12,8 +12,6 @@
 
 🔹[Web Development in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
-🔹[How to archive great UX]()
-
 🔹[Why Microsoft Word is the best IDE for programming](https://www.youtube.com/watch?v=X34ZmkeZDos)
 
 🔹[DEF CON 18 - Moxie Marlinspike - Changing Threats To Privacy : From TIA to Google](https://www.youtube.com/watch?v=DoeNbZlxfUM)
@@ -138,6 +136,12 @@
 
 🔹[Photopea - Online Photo Editor](https://www.photopea.com/)
 
+🔹[Design Lessons for everyone](https://hackdesign.org/)
+
+🔹[The Elements of User Experience](http://www.jjg.net/elements/pdf/elements_ch02.pdf)
+
+🔹[How to use Photoshop to design interfaces](https://nathanbarry.com/how-to-use-photoshop-to-design-interfaces/)
+
 <br>
 <br>
 
@@ -171,6 +175,8 @@
 🔹[Learn to Code HTML & CSS -Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
 
 🔹[Grid - Garden | A game for learning CSS grid](https://cssgridgarden.com/)
+
+🔹[A Basic Responsive Grid](https://webdesign.tutsplus.com/articles/a-basic-responsive-grid-plus-handy-css3-media-query-reporter--webdesign-5121)
 
 <br>
 <br>
@@ -216,3 +222,5 @@
 🔹[RunJS - A playground for JavaScript](https://runjs.app/)
 
 🔹[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)
+
+🔹[Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)

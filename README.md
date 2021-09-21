@@ -198,6 +198,8 @@
 
 🔹[Styling HTML Tables with CSS](https://flaviocopes.com/css-tables/)
 
+🔹[CSS Link Pseudo-classes](https://www.webfx.com/blog/web-design/link-pseudo-classes/)
+
 <br>
 <br>
 

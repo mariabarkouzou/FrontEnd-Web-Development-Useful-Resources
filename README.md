@@ -254,6 +254,7 @@
 🔹[The Skinny on CSS Attribute Selectors](https://css-tricks.com/attribute-selectors/)
 
 🔹[A tale of CSS Resets and Everything You Need to Know About Them. Revisited.](https://medium.com/weekly-webtips/a-tale-of-css-resets-and-everything-you-need-to-know-about-them-781849d9b7f2)
+
 🔹[CSS Selectors Explained](https://kostasx.github.io/selectors-explained/)
 
 🔹[Learn CSS Selectors Interactively Using CSS Diner](https://flukeout.github.io/)

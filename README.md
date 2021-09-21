@@ -150,6 +150,10 @@
 
 🔹[Git Cheat Sheet - 50 Commands you should know](https://www.freecodecamp.org/news/git-cheat-sheet/)
 
+🔹[Keywords Cheat Sheet Git](https://athena.socialhackersacademy.org/wp-content/uploads/Keywords-Cheat-Sheet-Git.pdf)
+
+🔹[Git from the inside out - Mary Rose Cook](https://www.youtube.com/watch?v=N9fnp_NSCv4)
+
 <br>
 <br>
 

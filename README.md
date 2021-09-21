@@ -162,6 +162,8 @@
 
 🔹[What The Git? | Enter a git command and have it explained to you](https://wtg.nezia.xyz/)
 
+🔹[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
 <br>
 <br>
 

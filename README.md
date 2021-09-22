@@ -268,7 +268,7 @@
 <br>
 <br>
 
-<img src="https://image.pngaaa.com/336/3920336-middle.png" />
+<img src="https://i.morioh.com/2020/01/08/3d894051b4e7.jpg" />
 
 ## CSS
 
@@ -415,7 +415,7 @@
 <br>
 <br>
 
-<img src="https://bestarion.com/wp-content/uploads/2021/03/cafedev_khoahoc_js.jpg" />
+<img src="https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png" />
 
 ## JavaScript
 

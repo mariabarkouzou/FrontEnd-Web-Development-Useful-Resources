@@ -583,6 +583,18 @@
 
 🔹[The developer’s guide to the HTML5 APIs](https://www.creativebloq.com/html5/developer-s-guide-html5-apis-1122923)
 
+🔹[JavaScript Prototype in Plain Language](https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+
+🔹[Object Oriented JavaScript Tutorial #10 - Prototype](https://www.youtube.com/watch?v=4jb4AYEyhRc)
+
+🔹[Prototypal inheritance](https://javascript.info/prototype-inheritance)
+
+🔹[Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+
+🔹[JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
+
+🔹[Javascript Tutorial | Prototype Inheritance | Ep24](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

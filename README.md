@@ -170,6 +170,14 @@
 
 🔹[CSS - Media Queries](https://www.youtube.com/watch?v=ERSEKYBNljc)
 
+🔹[Frameworks for Designers](https://alistapart.com/article/frameworksfordesigners/)
+
+🔹[Bootstrap](https://getbootstrap.com/)
+
+🔹[Foundation](https://get.foundation/)
+
+🔹[TailwindCSS](https://tailwindcss.com/)
+
 <br>
 <br>
 

@@ -633,6 +633,14 @@
 
 🔹[Just JavaScript : A Course by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
+🔹[JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
+
+🔹[ECMAScript 6](https://github.com/lukehoban/es6features)
+
+🔹[Babel](https://babeljs.io/)
+
+🔹[How to install Babel](https://github.com/babel/babel-loader)
+
 🔹[Solidify your JavaScript knowledge with Just JavaScript](https://dev.to/lbeul/solidify-your-javascript-knowledge-with-just-javascript-4735)
 
 🔹[Learn JavaScript through visualization](https://www.jsv9000.app/)

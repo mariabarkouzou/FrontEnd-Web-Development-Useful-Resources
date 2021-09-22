@@ -379,6 +379,17 @@
 
 🔹[Front-End Challenge Accepted: CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 
+🔹[Sass And LESS: An Introduction To CSS Preprocessors](http://vanseodesign.com/css/css-preprocessors/)
+
+🔹[6 Reasons You Should Use a CSS Preprocessor](https://raygun.com/blog/6-reasons-you-should-use-a-css-preprocessor/)
+
+🔹[How to Choose the Right CSS Preprocessor](https://blog.teamtreehouse.com/how-to-choose-the-right-css-preprocessor)
+
+🔹[Sass Basics](https://sass-lang.com/guide)
+
+🔹[Partials & Imports | Starting with Sass](https://www.youtube.com/watch?v=rB_DbuFCq_w)
+
+🔹[Getting Started with Sass](https://alistapart.com/article/getting-started-with-sass/)
 
 
 <br>

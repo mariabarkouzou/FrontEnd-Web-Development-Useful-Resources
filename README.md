@@ -69,6 +69,8 @@
 <br>
 <br>
 
+<img src="https://miro.medium.com/max/1400/1*1HiMZ1JFtQ2vaXL9z8dkDg.jpeg" />
+
 ## Chrome's Awesome Extensions
 
 🔹[axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
@@ -87,6 +89,8 @@
 
 <br>
 <br>
+
+<img src="https://www.freecodecamp.org/news/content/images/2020/12/vscode.jpg" />
 
 ## VS Code 
 
@@ -126,6 +130,7 @@
 <br>
 <br>
 
+<img src="https://guiportal.com/wp-content/uploads/2021/01/what-is-the-difference-between-ui.png" />
 
 ## UX | UI Design
 
@@ -187,6 +192,9 @@
 <br>
 <br>
 
+
+<img src="https://buddy.works/guides/covers/first-steps-with-git/first-steps-git-cover.png" />
+
 ## Git
 
 
@@ -208,6 +216,8 @@
 
 <br>
 <br>
+
+<img src="https://woxapp.com/uploads/images/html5_app_development_1.jpg" />
 
 ## HTML5
 
@@ -257,6 +267,8 @@
 
 <br>
 <br>
+
+<img src="https://image.pngaaa.com/336/3920336-middle.png" />
 
 ## CSS
 
@@ -402,6 +414,8 @@
 
 <br>
 <br>
+
+<img src="https://bestarion.com/wp-content/uploads/2021/03/cafedev_khoahoc_js.jpg" />
 
 ## JavaScript
 

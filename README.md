@@ -60,6 +60,10 @@
 
 🔹[Learn how to type and code faster - Typing Trainer Online](https://www.typingtest.com/trainer/)
 
+🔹[How to think like a programmer — lessons in problem solving](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
+🔹[Problem Solving](https://www.cs.utah.edu/~germain/PPS/Topics/problem_solving.html)
+
 <br>
 <br>
 
@@ -391,13 +395,69 @@
 
 🔹[Getting Started with Sass](https://alistapart.com/article/getting-started-with-sass/)
 
+🔹[The Complete Guide to Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/)
+
 
 <br>
 <br>
 
 ## JavaScript
 
+🔹[JavaScript For Cats | An introduction for new programmers](http://jsforcats.com/)
+
 🔹[JavaScript Fundamentals in 13 Slides](https://drive.google.com/file/d/11nsUxF60vmPiVnHmWAkf8Bolq7nPnLiM/view?usp=sharing)
+
+🔹[Data types](https://javascript.info/types)
+
+🔹[Variables](https://javascript.info/variables)
+
+🔹[Numbers](https://javascript.info/number)
+
+🔹[Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+
+🔹[Basic operators, maths](https://javascript.info/operators)
+
+🔹[Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+
+🔹[JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+
+🔹[String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#instance_methods)
+
+🔹[Comparisons](https://javascript.info/comparison)
+
+🔹[JavaScript if else and else if](https://www.w3schools.com/js/js_if_else.asp)
+
+🔹[Logical operators](https://javascript.info/logical-operators)
+
+🔹[Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+
+🔹[How To Use the Switch Statement in JavaScript](https://www.digitalocean.com/community/tutorials/how-to-use-the-switch-statement-in-javascript)
+
+🔹[Regular Expressions (RegEx) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
+
+🔹[RegexOne | Learn Regular Expressions with simple, interactive exercises](https://regexone.com/lesson/introduction_abcs)
+
+🔹[Functions](https://javascript.info/function-basics)
+
+🔹[Function expressions](https://javascript.info/function-expressions)
+
+🔹[Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
+
+🔹[Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+
+🔹[Function scope and conflicts](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#function_scope_and_conflicts)
+
+🔹[Function vs Block Scopes](https://jscomplete.com/learn/lab-functions-scopes)
+
+🔹[CodeSmell](https://martinfowler.com/bliki/CodeSmell.html)
+
+🔹[The arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+
+🔹[What is Pseudo-coding?](https://www.vikingcodeschool.com/software-engineering-basics/what-is-pseudo-coding)
+
+🔹[Planning with pseudo-code](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)
+
+🔹[]
 
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 

@@ -457,7 +457,19 @@
 
 🔹[Planning with pseudo-code](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)
 
-🔹[]
+🔹[Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+
+🔹[Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/)
+
+🔹[10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
+
+🔹[Beautiful JavaScript: Easily Create Chainable (Cascading) Methods for Expressiveness](https://web.archive.org/web/20190211152543/https://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/)
+
+🔹[Self Documenting Code](http://wiki.c2.com/?SelfDocumentingCode)
+
+🔹[Airbnb style guide](https://github.com/airbnb/javascript)
+
+🔹[Tips For Developers](https://github.com/kostasx/EventLoop/tree/master/Education/tips)
 
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 

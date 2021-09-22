@@ -501,6 +501,24 @@
 
 🔹[JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 
+🔹[An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
+
+🔹[What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/)
+
+🔹[Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+🔹[Getting, setting, & removing individual inline CSS properties](http://domenlightenment.com/#6.2)
+
+🔹[How to sanitize third-party content with vanilla JS to prevent cross-site scripting (XSS) attacks](https://gomakethings.com/how-to-sanitize-third-party-content-with-vanilla-js-to-prevent-cross-site-scripting-xss-attacks/)
+
+🔹[The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+
+🔹[DOM Enlightenment](http://domenlightenment.com/)
+
+🔹[Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript)
+
+🔹[JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

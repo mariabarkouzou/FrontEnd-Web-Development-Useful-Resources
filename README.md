@@ -130,7 +130,7 @@
 <br>
 <br>
 
-<img src="https://guiportal.com/wp-content/uploads/2021/01/what-is-the-difference-between-ui.png" />
+<img src="https://miro.medium.com/max/2000/1*gWJ4LXy30ma7c0dp_rHG2g.jpeg" />
 
 ## UX | UI Design
 

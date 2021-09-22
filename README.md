@@ -589,6 +589,8 @@
 
 🔹[Object Oriented JavaScript Tutorial #10 - Prototype](https://www.youtube.com/watch?v=4jb4AYEyhRc)
 
+🔹[3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
+
 🔹[Prototypal inheritance](https://javascript.info/prototype-inheritance)
 
 🔹[Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
@@ -658,8 +660,6 @@
 🔹[How let and const are scoped in JavaScript](https://wesbos.com/javascript-scoping)
 
 🔹[Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
-
-🔹[3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
 
 🔹[RunJS - A playground for JavaScript](https://runjs.app/)
 

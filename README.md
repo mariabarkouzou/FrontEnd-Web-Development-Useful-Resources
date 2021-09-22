@@ -595,6 +595,12 @@
 
 🔹[Javascript Tutorial | Prototype Inheritance | Ep24](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
 
+🔹[Is “Class” In ES6 The New “Bad” Part?](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
+
+🔹[Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+🔹[Class basic syntax](https://javascript.info/class)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

@@ -519,6 +519,14 @@
 
 🔹[JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
+🔹[HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+
+🔹[Handling Events](https://eloquentjavascript.net/15_event.html)
+
+🔹[JavaScript Event Capture, Propagation and Bubbling - #JavaScript30 25/30](https://www.youtube.com/watch?v=F1anRyL37lE)
+
+🔹[What is the difference between onevent handlers and adddEventListener? (Scroll down to find the specified question)](https://github.com/kostasx/Front-End-FAQ/blob/master/js.md)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

@@ -413,6 +413,10 @@
 
 🔹[Numbers](https://javascript.info/number)
 
+🔹[Raise a number to a power in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+
+🔹[JavaScript Number to String](https://www.freecodecamp.org/news/javascript-number-to-string-how-to-use-tostring-to-convert-an-int-into-a-string/)
+
 🔹[Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 
 🔹[Basic operators, maths](https://javascript.info/operators)
@@ -471,6 +475,16 @@
 
 🔹[Tips For Developers](https://github.com/kostasx/EventLoop/tree/master/Education/tips)
 
+🔹[Objects](https://javascript.info/object)
+
+🔹[JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+🔹[JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+
+🔹[JavaScript Array Methods Tutorial](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
+
+🔹[JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)
@@ -480,10 +494,6 @@
 🔹[Just JavaScript : A Course by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
 🔹[Solidify your JavaScript knowledge with Just JavaScript](https://dev.to/lbeul/solidify-your-javascript-knowledge-with-just-javascript-4735)
-
-🔹[JavaScript Array Methods Tutorial](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
-
-🔹[JavaScript Number to String](https://www.freecodecamp.org/news/javascript-number-to-string-how-to-use-tostring-to-convert-an-int-into-a-string/)
 
 🔹[Learn JavaScript through visualization](https://www.jsv9000.app/)
 
@@ -513,4 +523,4 @@
 
 🔹[ESLint - The "use strict" Rules](https://eslint.org/docs/rules/strict)
 
-🔹[Raise a number to a power in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+

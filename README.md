@@ -553,6 +553,8 @@
 
 🔹[You Don't Know JS: Async & Performance | Chapter 3: Promises](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md)
 
+🔹[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)
+
 🔹[Let's Learn ES6 - Promises](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
 
 🔹[Asynchronous JavaScript #4 - Promises](https://www.youtube.com/watch?v=yswb4SkDoj0)
@@ -612,8 +614,6 @@
 🔹[3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)
 
 🔹[RunJS - A playground for JavaScript](https://runjs.app/)
-
-🔹[JavaScript Promises - Explain Like I'm Five](https://blog.greenroots.info/javascript-promises-explain-like-i-am-five)
 
 🔹[Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 

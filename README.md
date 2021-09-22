@@ -409,6 +409,8 @@
 
 🔹[Getting Started with Sass](https://alistapart.com/article/getting-started-with-sass/)
 
+🔹[How to build a custom grid with SASS](https://blog.logrocket.com/understanding-css-grid-by-building-your-own-grid/)
+
 🔹[The Complete Guide to Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/)
 
 

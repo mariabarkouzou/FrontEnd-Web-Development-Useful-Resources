@@ -601,6 +601,24 @@
 
 🔹[Class basic syntax](https://javascript.info/class)
 
+🔹[About npm](https://docs.npmjs.com/about-npm)
+
+🔹[Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+
+🔹[Installing npm packages locally](https://www.youtube.com/watch?v=JDSfqFFbNYQ)
+
+🔹[Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file)
+
+🔹[npm Docs](https://docs.npmjs.com/)
+
+🔹[import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
+🔹[export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+
+🔹[Webpack Crash Course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+
+🔹[Streamline your code with webpack](https://www.youtube.com/watch?v=fPjJW_34W84)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

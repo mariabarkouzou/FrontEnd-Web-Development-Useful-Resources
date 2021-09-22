@@ -527,6 +527,8 @@
 
 🔹[What is the difference between onevent handlers and adddEventListener? (Scroll down to find the specified question)](https://github.com/kostasx/Front-End-FAQ/blob/master/js.md)
 
+🔹[JavaScript Validation API](https://www.w3schools.com/js/js_validation_api.asp)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

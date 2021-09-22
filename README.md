@@ -457,6 +457,8 @@
 
 🔹[RegexOne | Learn Regular Expressions with simple, interactive exercises](https://regexone.com/lesson/introduction_abcs)
 
+🔹[JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
+
 🔹[Functions](https://javascript.info/function-basics)
 
 🔹[Function expressions](https://javascript.info/function-expressions)
@@ -625,6 +627,10 @@
 
 🔹[S.O.L.I.D. Principles around you in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 
+🔹[S.O.L.I.D The first 5 principles of Object Oriented Design with JavaScript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
+
+🔹[How to Write Highly Scalable and Maintainable JavaScript: Coupling](https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
+
 🔹[Just JavaScript : A Course by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 
 🔹[Solidify your JavaScript knowledge with Just JavaScript](https://dev.to/lbeul/solidify-your-javascript-knowledge-with-just-javascript-4735)
@@ -632,8 +638,6 @@
 🔹[Learn JavaScript through visualization](https://www.jsv9000.app/)
 
 🔹[40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
-
-🔹[JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
 
 🔹[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 

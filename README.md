@@ -146,6 +146,30 @@
 
 🔹[Building a design system – Line Length](https://uxdesign.cc/building-a-design-system-where-to-start-part-4-typography-5065b8d360c#a43e)
 
+🔹[C.R.A.P Design Principles](https://www.presentationzen.com/chapter6_spread.pdf)
+
+🔹[Hack Design’s full 52-week free design course](https://hackdesign.org/)
+
+🔹[UX 101 for startups](https://medium.com/start-up-vision/ux-101-for-startups-dc849621262f)
+
+🔹[A large collection of free UX books](https://www.uxpin.com/knowledge)
+
+🔹[A very extensive free UX course](https://www.springboard.com/resources/learning-paths/user-experience-design/)
+
+🔹[Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
+
+🔹[Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+
+🔹[Responsive design tutorial - Learn responsive web design in 5 minutes](https://www.freecodecamp.org/news/learn-responsive-web-design-in-5-minutes/)
+
+🔹[Viewport Dimensions](https://viewportsizer.com/devices/)
+
+🔹[Responsive Navigation Patterns](https://bradfrost.com/blog/post/responsive-nav-patterns/)
+
+🔹[Best Practices of Responsive Web Design](https://medium.com/level-up-web/best-practices-of-responsive-web-design-6da8578f65c4)
+
+🔹[CSS - Media Queries](https://www.youtube.com/watch?v=ERSEKYBNljc)
+
 <br>
 <br>
 

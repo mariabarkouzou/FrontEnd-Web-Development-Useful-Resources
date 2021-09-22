@@ -1,5 +1,7 @@
 # Useful Resources for Front End Web Developers
 
+<img src="https://1.bp.blogspot.com/-w0V3gKURldo/YLe_M6XBwGI/AAAAAAAAR78/aEy4tyYclikzdOHsncKabrZom9TvMbmkQCLcBGAsYHQ/w0/whatisprogramming.png" />
+
 ## General
 
 🔹[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)

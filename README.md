@@ -529,6 +529,58 @@
 
 🔹[JavaScript Validation API](https://www.w3schools.com/js/js_validation_api.asp)
 
+🔹[Webpack: The Core Concepts](https://webpack.academy/p/the-core-concepts)
+
+🔹[Webpack | Asset Management](https://webpack.js.org/guides/asset-management/)
+
+🔹[Webpack | Output Management](https://webpack.js.org/guides/output-management/)
+
+🔹[Through the pipeline: An exploration of front-end bundlers](https://dev.to/walpolea/through-the-pipeline-an-exploration-of-front-end-bundlers-ea1)
+
+🔹[Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+🔹[JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp)
+
+🔹[JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
+
+🔹[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+
+🔹[Discovering JavaScript Object Notation with Douglas Crockford](https://www.youtube.com/watch?v=kc8BAR7SHJI)
+
+🔹[Asynchronous JavaScript #3 - Callback Functions](https://www.youtube.com/watch?v=QRq2zMHlBz4)
+
+🔹[You Don't Know JS: Async & Performance | Chapter 2: Callbacks](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch2.md)
+
+🔹[You Don't Know JS: Async & Performance | Chapter 3: Promises](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md)
+
+🔹[Let's Learn ES6 - Promises](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
+
+🔹[Asynchronous JavaScript #4 - Promises](https://www.youtube.com/watch?v=yswb4SkDoj0)
+
+🔹[Understanding JavaScript Promises](https://www.digitalocean.com/community/tutorials/understanding-javascript-promises)
+
+🔹[Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+🔹[Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+
+🔹[Free Public APIS](https://github.com/n0shake/Public-APIs)
+
+🔹[Axios - Free API](https://github.com/axios/axios)
+
+🔹[Superagent - Free API](https://github.com/visionmedia/superagent)
+
+🔹[Async/await](https://javascript.info/async-await)
+
+🔹[JavaScript ES 2017: Learn Async/Await by Example](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65)
+
+🔹[Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
+
+🔹[JavaScript async and await in loops](https://zellwk.com/blog/async-await-in-loops/)
+
+🔹[Javascript ES7 - Async / Await in under 3 minutes](https://www.youtube.com/watch?v=COKdtOgopWQ)
+
+🔹[The developer’s guide to the HTML5 APIs](https://www.creativebloq.com/html5/developer-s-guide-html5-apis-1122923)
+
 🔹[JavaScript Karel Robot Introduction](https://www.youtube.com/watch?v=_AWZZv_pK_g)
 
 🔹[Karel Robot](https://stanford.edu/~cpiech/karel/ide.html)

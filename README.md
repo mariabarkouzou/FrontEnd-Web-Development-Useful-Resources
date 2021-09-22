@@ -355,6 +355,29 @@
 
 🔹[Tool for Generating Gradient Background](https://cssgradient.io/)
 
+🔹[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+🔹[CSS border-radius Property](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
+
+🔹[CSS box-shadow Property](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
+
+🔹[CSS transform Property](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+🔹[::before / ::after](https://css-tricks.com/almanac/selectors/a/after-and-before/)
+
+🔹[A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
+
+🔹[Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+
+🔹[Learn CSS Animations Tutorial](https://www.youtube.com/watch?v=LCEgHntqBps)
+
+🔹[CSS Animation Tutorial #1 - Introduction](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+
+🔹[Intro to CSS 3D Transforms](https://3dtransforms.desandro.com/)
+
+🔹[CSS Transform Functions Visualizer](https://css-transform.moro.es/)
+
+🔹[Front-End Challenge Accepted: CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 
 
 

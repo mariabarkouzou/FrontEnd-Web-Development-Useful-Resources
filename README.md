@@ -214,6 +214,8 @@
 
 🔹[How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
+🔹[Git For Professionals](https://www.freecodecamp.org/news/git-for-professionals/)
+
 <br>
 <br>
 

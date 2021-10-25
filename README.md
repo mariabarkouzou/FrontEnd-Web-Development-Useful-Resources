@@ -673,4 +673,6 @@
 
 🔹[Build , Test & Debug RegEx](https://regex101.com/)
 
+🔹[Essential JavaScript debugging tools for the modern detective by Rebecca Hill](https://www.youtube.com/watch?v=TtsvMRxmfGA)
+
 

@@ -265,6 +265,9 @@
 
 🔹[Embedding a YouTube video in a webpage](https://www.youtube.com/watch?v=lJIrF4YjHfQ)
 
+🔹[Accessibility Testing - Totally Tooling Tips](https://www.youtube.com/watch?v=56zCnwj58e4)
+
+🔹[Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
 
 
 <br>

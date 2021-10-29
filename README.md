@@ -418,6 +418,7 @@
 
 🔹[The Complete Guide to Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/)
 
+🔹[Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw)
 
 <br>
 <br>

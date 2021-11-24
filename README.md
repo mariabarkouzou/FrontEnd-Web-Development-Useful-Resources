@@ -702,9 +702,10 @@
 </br>
 </br>
 
-## JavaScript Frameworks 
 
 <img src="https://www.codemotion.com/magazine/wp-content/uploads/2021/07/JavaScript-Frameworks-1024x576.jpg" />
+
+## JavaScript Frameworks 
 
 🔹[React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 

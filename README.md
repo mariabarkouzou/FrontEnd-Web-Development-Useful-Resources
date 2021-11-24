@@ -699,4 +699,22 @@
 
 🔹[Essential JavaScript debugging tools for the modern detective by Rebecca Hill](https://www.youtube.com/watch?v=TtsvMRxmfGA)
 
+</br>
+</br>
+
+## JavaScript Frameworks 
+
+<img src="https://www.codemotion.com/magazine/wp-content/uploads/2021/07/JavaScript-Frameworks-1024x576.jpg" />
+
+🔹[React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+🔹[Vue Tutorial](https://v3.vuejs.org/guide/introduction.html#what-is-vue-js)
+
+🔹[Angular Tutorial](https://angular.io/start)
+
+🔹[Nextjs Tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
+
+
+
+
 

@@ -699,6 +699,8 @@
 
 🔹[Essential JavaScript debugging tools for the modern detective by Rebecca Hill](https://www.youtube.com/watch?v=TtsvMRxmfGA)
 
+🔹[65+ JavaScript Code Snippets - With Explanations](https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations?utm_source=twitter)
+
 </br>
 </br>
 

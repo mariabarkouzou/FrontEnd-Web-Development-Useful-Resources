@@ -118,8 +118,6 @@
 
 🔹[VS Code Extensions - Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-🔹[VS Code Extensions - Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
 🔹[VS Code Extensions - Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 🔹[VS Code Extensions - ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)

@@ -107,6 +107,8 @@
 
 🔹[daily.dev | The Homepage Developers Deserve](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 
+🔹[Save Code](https://chrome.google.com/webstore/detail/save-code/annlhfjgbkfmbbejkbdpgbmpbcjnehbb/related)
+
 <br>
 <br>
 
@@ -143,7 +145,6 @@
 🔹[VS Code Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 🔹[Problems with auto reload page and live server?](https://github.com/ritwickdey/vscode-live-server/issues/452)
-
 
 <br>
 <br>

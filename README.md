@@ -717,6 +717,17 @@
 🔹[Nextjs Tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
 
 
+<img src="https://thumbs.dreamstime.com/b/virtual-conference-meeting-interview-office-clapping-218029336.jpg" />
+
+## Technical Interview Preparation
+
+🔹[FreeCodeCamp - Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
+
+🔹[Maria Barkouzou - Technical Interview Challenges](https://codepen.io/collection/jbWgwa)
+
+🔹[CodingInterview.com](https://www.codinginterview.com/coding-interview-prep)
+
+🔹[Edabit - 2.500 JavaScript Practice Challenges](https://edabit.com/challenges/javascript)
 
 
 

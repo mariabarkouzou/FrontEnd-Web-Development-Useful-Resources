@@ -740,3 +740,8 @@
 🔹[2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)
 
 🔹[Codecademy - Code Challenges](https://www.codecademy.com/code-challenges)
+
+🔹[Scrimba - How to ace the software engineer technical interview | Video](https://www.youtube.com/watch?v=q84IgTViFv8)
+
+🔹[Scrimba - How to Build a Junior Developer Portfolio That Will Get You Hired | Video](https://www.youtube.com/watch?v=9eMp8l4WEpE)
+

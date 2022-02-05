@@ -734,6 +734,7 @@
 🔹[Edabit - 2.500 JavaScript Practice Challenges](https://edabit.com/challenges/javascript)
 
 🔹[Top 155 JavaScript Interview Questions and Answers for 2021](https://morioh.com/p/620129429e84?f=5cb7d89d660c8335951ca454&fbclid=IwAR1kcW80DkTNGz63neddvCurQr_7LTF6Fg9om-EHZNBKdfmESlzXXOZqpg8)
+
 🔹[Codewars - JavaScript Practice Challenges](https://www.codewars.com/)
 
 🔹[2021 Front End Developer Interview Questions (And Answers!)](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)

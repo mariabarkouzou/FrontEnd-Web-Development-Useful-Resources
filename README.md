@@ -4,6 +4,8 @@
 
 ## General
 
+🔹[Web Development In 2022 - A Practical Guide | Video](https://www.youtube.com/watch?v=EqzUcMzfV1w)
+
 🔹[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 🔹[Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
